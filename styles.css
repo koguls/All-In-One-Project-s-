@@ -60,3 +60,6 @@ button:active{
 .operator-btn:hover{
     background-color: rgb(255, 145, 0);
 }
+.operator-btn:active{
+    background-color: rgb(162, 98, 14);
+}
